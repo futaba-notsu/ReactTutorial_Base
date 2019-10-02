@@ -6,11 +6,11 @@
 - デザイン変更
 
 # 起動
-`cd my-app`  
+1. `cd my-app`  
 my-app へ移動
 
-`yarn`  
+2. `yarn`  
 yarn.lock の読み込み
 
-`yran start`  
+3. `yran start`  
 [http://localhost:3000](http://localhost:3000) がブラウザで開く
